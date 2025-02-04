@@ -205,7 +205,7 @@ int main() {
                     double subkembalian;
                     subkembalian = kembalian;
                     cout << "\n===============================================================" << endl;
-                    cout << "|                         Bakery Shop                         |" << endl;
+                    cout << "|                         Ucup SHOP                         |" << endl;
                     cout << "|                       Struk Pembelian                       |" << endl;
                     cout << "===============================================================" << endl;
                     cout << "| No. | Bakery               | Harga Satuan | QTY |   Total   |" << endl;
